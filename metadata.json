@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bot Deployer",
+  "description": "Deploy and manage multiple Telegram bots written in Python or Node.js via Telegram or a web control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
